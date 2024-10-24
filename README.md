@@ -1,6 +1,6 @@
 # ScadaBR-Container
 
-Script to build ScadaBR docker image based on [ScadaBR Installer](https://github.com/thiagoralves/ScadaBR_Installer) by Thiago Alves.
+Script to build [ScadaBR](https://github.com/ScadaBR) docker image based on [ScadaBR Installer](https://github.com/thiagoralves/ScadaBR_Installer) by Thiago Alves.
 
 #### Supported architectures:
 - i386 (32 bit)
